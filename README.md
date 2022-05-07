@@ -1,1 +1,1 @@
-# SQL_for_Data_Science_Coursera_UC-Davis
+Here is some of the work I did to earn the SQL for Data Science certificate from UC Davis via Coursera.
